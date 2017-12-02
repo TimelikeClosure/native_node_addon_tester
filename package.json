@@ -1,0 +1,19 @@
+{
+  "name": "native_node_addon_tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimelikeClosure/native_node_addon_tester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimelikeClosure/native_node_addon_tester/issues"
+  },
+  "homepage": "https://github.com/TimelikeClosure/native_node_addon_tester#readme"
+}
