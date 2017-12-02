@@ -16,7 +16,7 @@ function runScript(){
 function runNative(){
     return run(
         require(
-            path.join(__dirname, 'native', 'index')
+            path.join(__dirname, 'native', 'build', 'Release', 'index')
         ).hello
     );
 }
